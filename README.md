@@ -4,6 +4,9 @@
 - Sätt i strömkabel in i datorn
 - Kubuntu USB-minnet in i datorn
 
+![Min bild](images/https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.z_DiWRPIgoWVU22BaltFOwHaE_%3Fpid%3DApi&f=1&ipt=20bad6f26486fa98e6d0aed9d2c2fc6fac73d73755ba1b1bb69c1a3580b1bc9f&ipo=images)
+
+
 ## Installation
 ### Stäng av Secure Boot
 - Stäng av datorn helt
